@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my Github Repos</h4>
 <h1 align="center">I am Saifullah Mansur</h1>
-<h3 align="center">Passionately diving into the realm of app development, merging creativity and functionality to architect exceptional digital experiences.</h3>
+<h3 align="center">Passionately diving into the realm of Machine learning, merging creativity and functionality to architect exceptional digital experiences.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullahmnsur&label=Profile%20views&color=0e75b6&style=flat" alt="saifullahmnsur" /> </p>
