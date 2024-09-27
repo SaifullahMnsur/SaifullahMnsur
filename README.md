@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/saifullahmnsur" target="blank"><img src="https://img.shields.io/twitter/follow/saifullahmnsur?logo=twitter&style=for-the-badge" alt="saifullahmnsur" /></a> </p>
 
-- 🌱 I’m currently learning **Native Android Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [saifullahmnsur.github.io](saifullahmnsur.github.io)
 
-- 💬 Ask me about **DSA, Native App Development**
+- 💬 Ask me about **DSA, ML, Native App Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
